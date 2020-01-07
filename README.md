@@ -1,30 +1,13 @@
-## Welcome to Ritwik Kumar's Portfolio
-
-
 ### Asteroids: The Rogue-Like
 
-```markdown
-Syntax highlighted code block
+![Image](src)
+- Developed a version of the classic Asteroids in Unity from scratch in a solo project.
+- Implemented vector based movement.
+- Worked on converting the game into a roguelike with an upgrade shop and economy.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[Link](url)
 
 ### Humans vs. Zombies
-
-```markdown
-```
 
 ## Contact Me
 Mobile: 585 (404) 6888  
