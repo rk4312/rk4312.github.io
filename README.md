@@ -28,5 +28,5 @@ Syntax highlighted code block
 
 ## Contact Me
 Mobile: 585 (404) 6888  
-
+<br />
 Email: rashrit@hotmail.com
