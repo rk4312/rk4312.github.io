@@ -13,6 +13,7 @@
 ### Humans vs. Zombies
 
 <img src="HvZ.PNG" width="50%" height="50%">
+
 - Created a simulation in Unity involving fully autonomous agents with 3D vector based movement.
 - Implemented steering behaviors such as pursue, evade, separation.
 - Responsible for implementing game-like elements to the simulation like adding more zombies or humans to the scene in real time and the respawning of humans.
