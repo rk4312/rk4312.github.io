@@ -1,6 +1,6 @@
 ### Asteroids: The Rogue-Like
 
-![Image](AsteroidsTitle.PNG){:height="25%" width="25%"}
+<img src="AsteroidsTitle.PNG" width="50%" height="50%">
 - Developed a version of the classic Asteroids in Unity from scratch in a solo project.
 - Implemented vector based movement.
 - Worked on converting the game into a roguelike with an upgrade shop and economy.
