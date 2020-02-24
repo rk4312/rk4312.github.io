@@ -10,6 +10,14 @@
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
+### Time-Switcher
+
+<img src="AsteroidsTitle.PNG" width="50%" height="50%">
+
+- Lead programmer for a 2D platformer in Unity within a team of 3.
+- Working on Level Design. Collision detection and some of the movement physics.
+- Started project in a game jam and the team has kept up progress since then.
+
 ### Humans vs. Zombies
 
 <img src="HvZ.PNG" width="50%" height="50%">
