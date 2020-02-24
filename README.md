@@ -12,7 +12,7 @@
 
 ### Time-Switcher
 
-<img src="AsteroidsTitle.PNG" width="50%" height="50%">
+<img src="Time-Switcher.PNG" width="50%" height="50%">
 
 - Lead programmer for a 2D platformer in Unity within a team of 3.
 - Working on Level Design. Collision detection and some of the movement physics.
