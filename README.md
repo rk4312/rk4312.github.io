@@ -1,3 +1,11 @@
+### Time-Switcher (Work-in-Progress)
+
+<img src="Time-Switcher.PNG" width="50%" height="50%">
+
+- Lead programmer for a 2D platformer in Unity within a team of 3.
+- Working on all aspects of game development from Level Design. Collision detection, etc.
+- Working asynchronously with team and using agile development strategies.
+
 ### Asteroids: The Rogue-Like
 
 <img src="AsteroidsTitle.PNG" width="50%" height="50%">
@@ -9,14 +17,6 @@
 - Worked on converting the game into a roguelike with an upgrade shop and economy.
 
 [Download Build](Asteroids_The_Roguelike.zip)
-
-### Time-Switcher (Work-in-Progress)
-
-<img src="Time-Switcher.PNG" width="50%" height="50%">
-
-- Lead programmer for a 2D platformer in Unity within a team of 3.
-- Working on Level Design. Collision detection and some of the movement physics.
-- Started project in a game jam and the team has kept up progress since then.
 
 ### Humans vs. Zombies
 
