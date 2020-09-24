@@ -1,6 +1,8 @@
 ### Time-Switcher (Work-in-Progress)
 
-<img src="Time-Switcher.PNG" width="50%" height="50%">
+<img src="TimeSwitcherPast.PNG" width="50%" height="50%">
+<img src="TimeSwitcherTransition.PNG" width="50%" height="50%">
+<img src="TimeSwitcherFuture.PNG" width="50%" height="50%">
 
 - Lead programmer for a 2D platformer in Unity within a team of 3.
 - Working on all aspects of game development from Level Design. Collision detection, etc.
