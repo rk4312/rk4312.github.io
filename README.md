@@ -1,12 +1,14 @@
-### Time-Switcher (Work-in-Progress)
+### Time-Jumper
 
-<img src="TimeSwitcherPast.png" width="50%" height="50%">
-<img src="TimeSwitcherTransition.png" width="50%" height="50%">
-<img src="TimeSwitcherFuture.png" width="50%" height="50%">
+<img src="TimeJumperWallJump.jpg" width="50%" height="50%">
+<img src="TimeJumperTimeSwitch.jpg" width="50%" height="50%">
+<img src="TimeJumperFuture.jpg" width="50%" height="50%">
 
-- Lead programmer for a 2D platformer in Unity within a team of 3.
-- Working on all aspects of game development from Level Design. Collision detection, etc.
-- Working asynchronously with team and using agile development strategies.
+Steam link: https://store.steampowered.com/app/1555640/Time_Jumper/
+
+- Co-Lead programmer for a 2D platformer built in Unity and published on Steam.
+- Worked on all aspects of game development from Level Design, Camera Logic, etc.
+- Worked asynchronously with team in different time zones using agile development.
 
 ### Asteroids: The Rogue-Like
 
