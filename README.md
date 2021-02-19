@@ -4,7 +4,7 @@
 <img src="TimeJumperTimeSwitch.jpg" width="50%" height="50%">
 <img src="TimeJumperFuture.jpg" width="50%" height="50%">
 
-Steam link: [https://store.steampowered.com/app/1555640/Time_Jumper/](https://store.steampowered.com/app/1555640/Time_Jumper/)
+Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](https://store.steampowered.com/app/1555640/Time_Jumper/)
 
 - Co-Lead programmer for a 2D platformer built in Unity and published on Steam.
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
