@@ -12,7 +12,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 ### Asteroids: The Rogue-Like
 
-<img src="AsteroidsTitle.PNG" width="50%" height="50%">
+<img src="PolygonCreationTool.gif" width="50%" height="50%">
 <img src="AsteroidsGameplay.PNG" width="50%" height="50%">
 <img src="AsteroidsUpgradeScreen.PNG" width="50%" height="50%">
 
