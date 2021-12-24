@@ -1,21 +1,18 @@
 ### Time-Jumper
+## *Published on Steam*
 
-<img src="TimeJumperWallJump.jpg" width="50%" height="50%">
-<img src="TimeJumperTimeSwitch.jpg" width="50%" height="50%">
-<img src="TimeJumperFuture.jpg" width="50%" height="50%">
+<img src="TimeJumperTitleScreen.PNG" width="100%" height="100%">
 
 Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](https://store.steampowered.com/app/1555640/Time_Jumper/)
-(https://www.youtube.com/watch?v=hZDRFmvcG6Q)
-(https://www.youtube.com/watch?v=7LWMZXvOEWo)
+
 - Co-Lead programmer for a 2D platformer built in Unity and published on Steam.
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
 - Worked asynchronously with team in different time zones using agile development.
 
 ### Asteroids: The Rogue-Like
+## *Built in Unity from scratch*
 
-<img src="PolygonCreationTool.gif" width="50%" height="50%">
-<img src="AsteroidsGameplay.PNG" width="50%" height="50%">
-<img src="AsteroidsUpgradeScreen.PNG" width="50%" height="50%">
+<img src="AsteroidsGameplay.gif" width="100%" height="100%">
 
 - Developed a version of the classic Asteroids in Unity from scratch in a solo project.
 - Implemented vector based movement.
@@ -23,9 +20,20 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
-### Humans vs. Zombies
+### Level Design
 
-<img src="HvZ.PNG" width="50%" height="50%">
+## Portal 2 Custom Level
+<img src="CustomPorta2Level.PNG" width="100%" height="100%">
+[Portal 2 Level Youtube Link](https://www.youtube.com/watch?v=7LWMZXvOEWo)
+
+## Doom (2016) Custom Level
+<img src="CustomDoomLevel.PNG" width="100%" height="100%">
+[Doom Level Youtube Link](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
+
+### Humans vs. Zombies
+## *AI Pathfinding and steering behaviors*
+
+<img src="HvZ.PNG" width="100%" height="100%">
 
 - Created a simulation in Unity involving fully autonomous agents with 3D vector based movement.
 - Implemented steering behaviors such as pursue, evade, separation.
