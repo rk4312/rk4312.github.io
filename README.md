@@ -22,7 +22,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
-<hr style="margin: 75px 0 75px 0;">
+<hr style="margin: 75px 0 25px 0;">
 
 ### Level Design
 
