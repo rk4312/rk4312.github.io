@@ -1,5 +1,5 @@
 ### Time-Jumper
-#### *Published on Steam*
+*Published on Steam*
 
 <img src="TimeJumperTitleScreen.PNG" width="100%" height="100%">
 
@@ -9,8 +9,10 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
 - Worked asynchronously with team in different time zones using agile development.
 
+---
+
 ### Asteroids: The Rogue-Like
-#### *Built in Unity from scratch*
+*Built in Unity from scratch*
 
 <img src="AsteroidsGameplay.gif" width="100%" height="100%">
 
@@ -20,18 +22,26 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
+---
+
 ### Level Design
 
 #### Portal 2 Custom Level
 <img src="CustomPortal2Level.PNG" width="100%" height="100%">
-[Portal 2 Level Youtube Link](https://www.youtube.com/watch?v=7LWMZXvOEWo)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=7LWMZXvOEWo)
+
+---
 
 #### Doom (2016) Custom Level
 <img src="CustomDoomLevel.PNG" width="100%" height="100%">
-[Doom Level Youtube Link](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
+
+---
 
 ### Humans vs. Zombies
-#### *AI Pathfinding and steering behaviors*
+*AI Pathfinding and steering behaviors*
 
 <img src="HvZ.PNG" width="100%" height="100%">
 
@@ -40,6 +50,8 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Responsible for implementing game-like elements to the simulation like adding more zombies or humans to the scene in real time and the respawning of humans.
 
 [Download Build](Humans_vs_Zombies.zip)
+
+---
 
 ## Contact Me
 Mobile: 585 (404) 6888  
