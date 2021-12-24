@@ -1,3 +1,5 @@
+<hr style="margin: 0 0 75px 0;">
+
 ### Time-Jumper
 *Published on Steam*
 
