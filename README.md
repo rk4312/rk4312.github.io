@@ -22,11 +22,11 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
-<hr style="margin: 75px 0 25px 0;">
+<hr style="margin: 75px 0 0 0;">
 
 ### Level Design
 
-<hr style="margin: 0 0 25px 0;">
+<hr style="margin: 0 0 75px 0;">
 
 #### Portal 2 Custom Level
 <img src="CustomPortal2Level.PNG" width="100%" height="100%">
