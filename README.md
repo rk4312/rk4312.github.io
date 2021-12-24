@@ -9,7 +9,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
 - Worked asynchronously with team in different time zones using agile development.
 
-<hr style="margin: 100px 0 100px 0;">
+<hr style="margin: 75px 0 75px 0; height:10px;">
 
 ### Asteroids: The Rogue-Like
 *Built in Unity from scratch*
@@ -22,25 +22,25 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
----
+<hr style="margin: 75px 0 75px 0;">
 
 ### Level Design
 
----
+<hr style="margin: 25px 0 25px 0;">
 
 #### Portal 2 Custom Level
 <img src="CustomPortal2Level.PNG" width="100%" height="100%">
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7LWMZXvOEWo)
 
----
+<hr style="margin: 75px 0 75px 0;">
 
 #### Doom (2016) Custom Level
 <img src="CustomDoomLevel.PNG" width="100%" height="100%">
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
 
----
+<hr style="margin: 75px 0 75px 0;">
 
 ### Humans vs. Zombies
 *AI Pathfinding and steering behaviors*
@@ -53,7 +53,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Humans_vs_Zombies.zip)
 
----
+<hr style="margin: 75px 0 75px 0;">
 
 ## Contact Me
 Mobile: 585 (404) 6888  
