@@ -9,7 +9,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
 - Worked asynchronously with team in different time zones using agile development.
 
-<hr style="margin: 75px 0 75px 0; height:10px;">
+<hr style="margin: 75px 0 75px 0;">
 
 ### Asteroids: The Rogue-Like
 *Built in Unity from scratch*
@@ -26,7 +26,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 ### Level Design
 
-<hr style="margin: 25px 0 25px 0;">
+<hr style="margin: 0 0 25px 0;">
 
 #### Portal 2 Custom Level
 <img src="CustomPortal2Level.PNG" width="100%" height="100%">
