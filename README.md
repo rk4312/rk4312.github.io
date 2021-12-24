@@ -53,9 +53,9 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Humans_vs_Zombies.zip)
 
-<hr style="margin: 75px 0 75px 0;">
+<hr style="margin: 75px 0 0 0;">
 
 ## Contact Me
-Mobile: 585 (404) 6888  
+**Phone**: 585 (404) 6888  
 <br />
-Email: rashrit@hotmail.com
+**Email**: rashrit@hotmail.com
