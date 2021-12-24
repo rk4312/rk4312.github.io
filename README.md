@@ -23,7 +23,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 ### Level Design
 
 #### Portal 2 Custom Level
-<img src="CustomPorta2Level.PNG" width="100%" height="100%">
+<img src="CustomPortal2Level.PNG" width="100%" height="100%">
 [Portal 2 Level Youtube Link](https://www.youtube.com/watch?v=7LWMZXvOEWo)
 
 #### Doom (2016) Custom Level
