@@ -28,21 +28,21 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 ### Level Design
 
-<hr style="margin: 0 0 75px 0;">
+<hr style="margin: 0 0 0 0;">
 
 #### Portal 2 Custom Level
 <img src="CustomPortal2Level.PNG" width="100%" height="100%">
 
 [Watch on YouTube](https://www.youtube.com/watch?v=7LWMZXvOEWo)
 
-<hr style="margin: 75px 0 75px 0;">
+<hr style="margin: 0 0 35px 0;">
 
 #### Doom (2016) Custom Level
 <img src="CustomDoomLevel.PNG" width="100%" height="100%">
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
 
-<hr style="margin: 75px 0 75px 0;">
+<hr style="margin: 35px 0 75px 0;">
 
 ### Polygon Creation Tool
 *OpenGL Proficiency*
