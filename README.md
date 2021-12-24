@@ -11,7 +11,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 
 
----
+<hr style="border:2px solid gray"> </hr>
 
 
 
