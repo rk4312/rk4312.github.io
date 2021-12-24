@@ -1,7 +1,7 @@
 ### Time-Jumper
 *Published on Steam*
 
-<img src="TimeJumperTitleScreen.PNG" width="100%" height="100%">
+<img src="TimeJumperAnimatedTitleScreen.gif" width="100%" height="100%">
 
 Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](https://store.steampowered.com/app/1555640/Time_Jumper/)
 
@@ -39,6 +39,16 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 <img src="CustomDoomLevel.PNG" width="100%" height="100%">
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hZDRFmvcG6Q)
+
+<hr style="margin: 75px 0 75px 0;">
+
+### Polygon Creation Tool
+*OpenGL Proficiency*
+
+<img src="PolygonCreationTool.gif" width="100%" height="100%">
+
+- Using GLUT, created a tool to make polygons of any size in OpenGL.
+- Implemented a context menu to clear polygons or change which color to draw the next polygon with.
 
 <hr style="margin: 75px 0 75px 0;">
 
