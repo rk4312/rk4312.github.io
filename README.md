@@ -57,5 +57,5 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 ## Contact Me
 **Phone**: 585 (404) 6888  
-<br />
+
 **Email**: rashrit@hotmail.com
