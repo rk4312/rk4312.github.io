@@ -9,7 +9,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
 - Worked asynchronously with team in different time zones using agile development.
 
----
+***
 
 ### Asteroids: The Rogue-Like
 *Built in Unity from scratch*
