@@ -24,6 +24,17 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 [Download Build](Asteroids_The_Roguelike.zip)
 
+<hr style="margin: 75px 0 75px 0;">
+
+### Target Practice at Sun Temple
+*Built in Unreal Engine 5*
+
+<img src="SunTempleGameplay.gif" width="100%" height="100%">
+
+- Developed a simple game using Unreal's first person shooter template and free environment assets.
+- Implemented my own game logic (score keeping, timer, physics on targets being shot) and UI entirely using UE5 blueprints.
+- Converted scene from using baked lightmaps to using UE5 Lumen lighting.
+
 <hr style="margin: 75px 0 0 0;">
 
 ### Level Design
