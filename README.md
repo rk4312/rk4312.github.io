@@ -13,6 +13,18 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 <hr style="margin: 75px 0 75px 0;">
 
+### Ao Shu Spellslinger
+*Isometric Action Game*
+
+<img src="AoShuUI.gif" width="100%" height="100%">
+
+Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](https://www.darrenkwan.com/ao-shu-spellslinger)
+
+- Developing UI on an isometric action game as part of a larger team meant to simulate a professional workflow. 
+- Working with Unity and industry standard Perforce with constant communication with leads and teammates.
+
+<hr style="margin: 75px 0 75px 0;">
+
 ### Asteroids: The Rogue-Like
 *Built in Unity from scratch*
 
