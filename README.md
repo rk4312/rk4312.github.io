@@ -20,7 +20,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](https://www.darrenkwan.com/ao-shu-spellslinger)
 
-- Developing UI on an isometric action game as part of a larger team meant to simulate a professional workflow. 
+- Developing UI on an isometric action game as part of a larger team meant to simulate a professional, agile workflow. 
 - Working with Unity and industry standard Perforce with constant communication with leads and teammates.
 
 <hr style="margin: 75px 0 75px 0;">
