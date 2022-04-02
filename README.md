@@ -25,6 +25,15 @@ Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](h
 
 <hr style="margin: 75px 0 75px 0;">
 
+### Custom Game Engine
+*DirectX 11*
+
+<img src="CustomGameEngine.gif" width="100%" height="100%">
+
+- Implemented features like lighting, textures, normal mapping, specular mapping, cubemaps and worte my own shaders in HLSL.
+
+<hr style="margin: 75px 0 75px 0;">
+
 ### Asteroids: The Rogue-Like
 *Built in Unity from scratch*
 
