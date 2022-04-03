@@ -9,7 +9,37 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 - Co-Lead programmer for a 2D platformer built in Unity and published on Steam.
 - Worked on all aspects of game development from Level Design, Camera Logic, etc.
-- Worked asynchronously with team in different time zones using agile development.
+- Worked asynchronously with team in different time zones using agile development techniques.
+
+[Go to code](https://github.com/rk4312/TimeJumper/tree/main/Assets/Scripts)
+
+<hr style="margin: 75px 0 75px 0;">
+
+### Custom Game Engine
+*DirectX 11*
+
+<img src="CustomGameEngine.gif" width="100%" height="100%">
+
+- Custom DirectX 11 game engine built in Microsoft Visual Studio.
+- Implemented lighting math for directional and point lights.
+- Pixel and Vertex shaders written in HLSL from scratch.
+- Samples texture map for surface color, normal mapps to draw bumpy surfaces, specular maps to vary specularity of various surfaces.
+- Cubemap and custom vertex and pixel shader used for rendering skybox.
+
+[Go to code](https://github.com/rk4312/DX11Engine/tree/main/DX11Starter)
+
+<hr style="margin: 75px 0 75px 0;">
+
+### Asteroids: The Rogue-Like
+*Built in Unity from scratch*
+
+<img src="AsteroidsGameplay.gif" width="100%" height="100%">
+
+- Developed a version of the classic Asteroids in Unity from scratch in a solo project.
+- Features vector based movement with realistic feeling acceleration in a zero G sandbox.
+- Worked on converting the game into a roguelike with an upgrade shop and economy.
+
+[Download Build](Asteroids_The_Roguelike.zip)   [Go to code](https://github.com/rk4312/Asteroids-The-Rogue-Like/tree/main/Assets/Scripts)
 
 <hr style="margin: 75px 0 75px 0;">
 
@@ -20,30 +50,10 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](https://www.darrenkwan.com/ao-shu-spellslinger)
 
-- Developing UI on an isometric action game as part of a larger team meant to simulate a professional, agile workflow. 
-- Working with Unity and industry standard Perforce with constant communication with leads and teammates.
-
-<hr style="margin: 75px 0 75px 0;">
-
-### Custom Game Engine
-*DirectX 11*
-
-<img src="CustomGameEngine.gif" width="100%" height="100%">
-
-- Implemented features like lighting, textures, normal mapping, specular mapping, cubemaps and worte my own shaders in HLSL.
-
-<hr style="margin: 75px 0 75px 0;">
-
-### Asteroids: The Rogue-Like
-*Built in Unity from scratch*
-
-<img src="AsteroidsGameplay.gif" width="100%" height="100%">
-
-- Developed a version of the classic Asteroids in Unity from scratch in a solo project.
-- Implemented vector based movement.
-- Worked on converting the game into a roguelike with an upgrade shop and economy.
-
-[Download Build](Asteroids_The_Roguelike.zip)
+- Developed UI on an isometric action game as part of a larger team meant to simulate a professional, agile workflow.
+- Handled the entirety of controller input for the game.
+- Determining which input device is being used, how to properly map controls that were designed for mouse and keyboard onto a controller, etc.
+- Worked with Unity and industry standard Perforce with constant communication with leads and teammates.
 
 <hr style="margin: 75px 0 75px 0;">
 
