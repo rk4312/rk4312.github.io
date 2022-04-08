@@ -21,7 +21,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 <img src="CustomGameEngine.gif" width="100%" height="100%">
 
 - Custom DirectX 11 game engine built in Microsoft Visual Studio.
-- Implemented lighting math for directional and point lights.
+- Implemented physically based lighting math for directional and point lights.
 - Pixel and Vertex shaders written in HLSL from scratch.
 - Samples texture map for surface color, normal mapps to draw bumpy surfaces, specular maps to vary specularity of various surfaces.
 - Cubemap and custom vertex and pixel shader used for rendering skybox.
