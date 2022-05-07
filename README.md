@@ -46,7 +46,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 ### Ao Shu Spellslinger
 *Isometric Action Game*
 
-<img src="AoShuUI.gif" width="100%" height="100%">
+<img src="AoShuGameplay.gif" width="100%" height="100%">
 
 Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](https://www.darrenkwan.com/ao-shu-spellslinger)
 
