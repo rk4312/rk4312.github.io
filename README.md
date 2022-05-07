@@ -30,19 +30,6 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 
 <hr style="margin: 75px 0 75px 0;">
 
-### Asteroids: The Rogue-Like
-*Built in Unity from scratch*
-
-<img src="AsteroidsGameplay.gif" width="100%" height="100%">
-
-- Developed a version of the classic Asteroids in Unity from scratch in a solo project.
-- Features vector based movement with realistic feeling acceleration in a zero G sandbox.
-- Worked on converting the game into a roguelike with an upgrade shop and economy.
-
-[Download Build](Asteroids_The_Roguelike.zip)   [Go to code](https://github.com/rk4312/Asteroids-The-Rogue-Like/tree/main/Assets/Scripts)
-
-<hr style="margin: 75px 0 75px 0;">
-
 ### Ao Shu Spellslinger
 *Isometric Action Game*
 
@@ -54,6 +41,19 @@ Link to game designer's page: [https://www.darrenkwan.com/ao-shu-spellslinger](h
 - Handled the entirety of controller input for the game.
 - Determining which input device is being used, how to properly map controls that were designed for mouse and keyboard onto a controller, etc.
 - Worked with Unity and industry standard Perforce with constant communication with leads and teammates.
+
+<hr style="margin: 75px 0 75px 0;">
+
+### Asteroids: The Rogue-Like
+*Built in Unity from scratch*
+
+<img src="AsteroidsGameplay.gif" width="100%" height="100%">
+
+- Developed a version of the classic Asteroids in Unity from scratch in a solo project.
+- Features vector based movement with realistic feeling acceleration in a zero G sandbox.
+- Worked on converting the game into a roguelike with an upgrade shop and economy.
+
+[Download Build](Asteroids_The_Roguelike.zip)   [Go to code](https://github.com/rk4312/Asteroids-The-Rogue-Like/tree/main/Assets/Scripts)
 
 <hr style="margin: 75px 0 75px 0;">
 
