@@ -25,6 +25,7 @@ Link to Steam page: [https://store.steampowered.com/app/1555640/Time_Jumper/](ht
 - Pixel and Vertex shaders written in HLSL from scratch.
 - Samples texture map for surface color, normal mapps to draw bumpy surfaces, specular maps to vary specularity of various surfaces.
 - Cubemap and custom vertex and pixel shader used for rendering skybox.
+- Implemented dynamic shadow mapping.
 
 [Go to code](https://github.com/rk4312/DX11Engine/tree/main/DX11Starter)
 
